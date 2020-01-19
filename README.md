@@ -7,6 +7,8 @@
 This repository contains an RL environment based on open-source game Gameplay
 Football. <br> It was created by the Google Brain team for research purposes.
 
+Danke
+
 Useful links:
 * __(NEW!)__ [GRF Game Server](https://research-football.dev/) - challenge other researchers!
 * [Google Research Football Paper](https://arxiv.org/abs/1907.11180)
